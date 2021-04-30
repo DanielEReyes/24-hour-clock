@@ -26,7 +26,4 @@ function updateTime(k) {
     return k;
   }
 }
-
-
-
 currentTime();
